@@ -1,2 +1,6 @@
 #!/bin/bach
+<<<<<<< HEAD
 echo "school is so cool"
+=======
+echo "the school is open"
+>>>>>>> update_script
