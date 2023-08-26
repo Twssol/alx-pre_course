@@ -1,14 +1,4 @@
 #!/bin/bach
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-echo "school is so cool"
-=======
-echo "the school is open"
->>>>>>> update_script
-=======
-echo "the school is open now"
->>>>>>> update_script
-=======
+echo "the school is open now 
 echo "the school is open now ,whooo"
->>>>>>> update_script
+ 
