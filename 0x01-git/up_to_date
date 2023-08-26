@@ -1,0 +1,4 @@
+git fetch origin
+git branch -vva
+git checkout master
+git pull
